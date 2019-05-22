@@ -3,11 +3,46 @@
     {
       "hero": "Spider-Man",
       "name": "Peter Benjamin Parker", 
-      "img":  "https://images5.alphacoders.com/685/685654.jpg"
+      "img":  "https://drive.google.com/open?id=1iz9YNwBXTyCCHHzSL_EwZp0wyEiWiHZp"
     },
     {
       "hero": "CAPTAIN MARVEL",
       "name": "Carol Danvers", 
-      "img":  "https://images8.alphacoders.com/984/984103.jpg"
+      "img":  "https://drive.google.com/open?id=1TG0wX4DMuIcyhYNqDZlzPQs0An40cdSc"
+    },
+    {
+      "hero": "HULK", 
+      "name": "Robert Bruce Banner",
+      "img":  "https://drive.google.com/open?id=15BvRuX_DjbPXZ948aFPTBvkfDE8UOiEK"
+    },
+    {
+      "hero": "Black Widow", 
+      "name": "Natalia 'Natasha' Alianovna Romanova",
+      "img":  "https://drive.google.com/open?id=14v05DAAN1i5GE1-swzRoHx3KXRPpYrTT"
+    },
+    {
+      "hero": "Daredevil", 
+      "name": "Matthew Michael Murdock",
+      "img":  "https://drive.google.com/open?id=1wxLLYdtiBdL54SX2qe1znt1aoxcNgTDQ"
+    },
+    {
+      "hero": "Wolverine", 
+      "name": "James Howlett",
+      "img":  "https://drive.google.com/open?id=17N8xeGeVRstDP3Gvp2AvO6vk8SsDB_NB"
+    },
+    {
+      "hero": "Captain America", 
+      "name": "Steven Rogers",
+      "img":  "https://drive.google.com/open?id=1znuVb0w_cu-cV0VrKSVsh8ofKR7-fOBx"
+    },
+    {
+      "hero": "Iron Man", 
+      "name": "Anthony Edward 'Tony' Stark",
+      "img":  "https://drive.google.com/open?id=1du4QJmGCNP5VPtAj5WzMN6UnWJjpDZ2G"
+    },
+    {
+      "hero": "THOR", 
+      "name": "Thor Odinson",
+      "img":  "https://drive.google.com/open?id=1XmMcTMaPGC6VLy_WO5McOYFoCazc-fAJ"
     }]
-	}
+}
